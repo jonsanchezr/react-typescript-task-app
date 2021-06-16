@@ -60,6 +60,6 @@ Not defined.
 Jonathan Sanchez Rodriguez - jsanchez.dev1991@gmail.com
 
 ## Screenshot
-[![screenshot-1](https://raw.githubusercontent.com/jonsanchezr/react-gallery-app/main/z-screenshot/screenshot-1.png "screenshot-1")](https://raw.githubusercontent.com/jonsanchezr/react-gallery-app/main/z-screenshot/screenshot-1.png "screenshot-1")
+[![screenshot-1](https://raw.githubusercontent.com/jonsanchezr/react-typescript-task-app/main/z-screenshot/screenshot-1.png "screenshot-1")](https://raw.githubusercontent.com/jonsanchezr/react-typescript-task-app/main/z-screenshot/screenshot-1.png "screenshot-1")
 
-[![screenshot-2](https://raw.githubusercontent.com/jonsanchezr/react-gallery-app/main/z-screenshot/screenshot-2.png "screenshot-2")](https://raw.githubusercontent.com/jonsanchezr/react-gallery-app/main/z-screenshot/screenshot-2.png "screenshot-2")
+[![screenshot-2](https://raw.githubusercontent.com/jonsanchezr/react-typescript-task-app/main/z-screenshot/screenshot-2.png "screenshot-2")](https://raw.githubusercontent.com/jonsanchezr/react-typescript-task-app/main/z-screenshot/screenshot-2.png "screenshot-2")
