@@ -1,8 +1,16 @@
-# Getting Started with Create React App
+# Task React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Web application of Tasks where you can see all the tasks, add task and delete task (CRUD TASKS).
 
-## Available Scripts
+The repository contains for the frontend the application developed in REACT.
+
+Project with React and Typescript.
+
+- Language [Javascripts]
+- React.js
+- Typescript
+
+## Available Scripts for React
 
 In the project directory, you can run:
 
@@ -44,3 +52,14 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## License
+Not defined.
+
+## Author
+Jonathan Sanchez Rodriguez - jsanchez.dev1991@gmail.com
+
+## Screenshot
+[![screenshot-1](https://raw.githubusercontent.com/jonsanchezr/react-gallery-app/main/z-screenshot/screenshot-1.png "screenshot-1")](https://raw.githubusercontent.com/jonsanchezr/react-gallery-app/main/z-screenshot/screenshot-1.png "screenshot-1")
+
+[![screenshot-2](https://raw.githubusercontent.com/jonsanchezr/react-gallery-app/main/z-screenshot/screenshot-2.png "screenshot-2")](https://raw.githubusercontent.com/jonsanchezr/react-gallery-app/main/z-screenshot/screenshot-2.png "screenshot-2")
